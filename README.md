@@ -6,11 +6,13 @@ It uses [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.and
 ## Usage
 In daily usage you only need to:
 - Run the server
+- Open Tasker to make sure the profile is running
 - Start a workout in the Notify app (not neccesary but increases HR update rate)
+
 
 ## Setup
 ### Notify
-- Enable Notify>Tools>Tasker Integration
+- Enable `Notify>Tools>Tasker Integration`
 
 Tools | Tasker Integration
 :----:|:----:
